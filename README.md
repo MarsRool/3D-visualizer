@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+ВИЗУАЛИЗАТОР ПРОСТРАНСТВЕННО-ВРЕМЕННЫХ ФУНКЦИЙ
+-
+Назначение. Область применения:
+-
 
-You can use the [editor on GitHub](https://github.com/MarsRool/3D-visualizer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Интерактивная программа предназначена для отображения графиков пространственных функций, постоянных или изменяющихся во времени. Применяется в организациях, где требуется визуализация графических данных в пространстве, в том числе динамических, построение графиков, диаграмм. Она позволяет:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+•	Рассчитывать матрицы значений функций z=f(x,y,t);
 
-### Markdown
+•	Интерактивно отображать графики функций в удобном для восприятия виде;
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•	задавать набор начальных данных для построения графиков;
 
-```markdown
-Syntax highlighted code block
+•	отображать динамические функции в любой момент времени из построенного диапазона времени;
 
-# Header 1
-## Header 2
-### Header 3
+•	сохранять и загружать построенные графики;
 
-- Bulleted
-- List
+•	использовать «Демо» графики – заранее построенные графики.
 
-1. Numbered
-2. List
+Технологии, используемые при разработке
+---
+Для разработки программы использовались язык программирования C++ и графическая библиотека OpenGL.
 
-**Bold** and _Italic_ and `Code` text
+Программное обеспечение, необходимое для использования продукта
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarsRool/3D-visualizer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Программный комплекс требует наличия на компьютере NET.framework v4, стандартные библиотеки Windows для работы с файлами, стандартная библиотека C++. 
