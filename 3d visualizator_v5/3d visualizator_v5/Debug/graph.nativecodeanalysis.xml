@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>204</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>212</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>215</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>216</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>219</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>220</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>223</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>223</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>224</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph_func::LoadData</FUNCTION>
+    <DECORATED>?LoadData@graph_func@@$$FQAEXPAU_iobuf@@H@Z</DECORATED>
+    <FUNCLINE>202</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>284</LINE>
+      <COLUMN>31</COLUMN>
+    </SFA>
+    <DEFECTCODE>6308</DEFECTCODE>
+    <DESCRIPTION>realloc может возвратить пустой указатель: присвоение пустого указателя переменной "funcs", которая передается в качестве аргумента функции realloc, приведет к утечке исходного блока памяти.</DESCRIPTION>
+    <FUNCTION>graph::AddFunc</FUNCTION>
+    <DECORATED>?AddFunc@graph@@$$FQAMXPADHABVRGB_MR@@P$AAVProgressBar@Forms@Windows@System@@@Z</DECORATED>
+    <FUNCLINE>278</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>286</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>28182</DEFECTCODE>
+    <DESCRIPTION>Разыменование пустого (NULL) указателя. "funcs" содержит то же значение NULL, которое находилось в "realloc()`284". </DESCRIPTION>
+    <FUNCTION>graph::AddFunc</FUNCTION>
+    <DECORATED>?AddFunc@graph@@$$FQAMXPADHABVRGB_MR@@P$AAVProgressBar@Forms@Windows@System@@@Z</DECORATED>
+    <FUNCLINE>278</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>graph.cpp</FILENAME>
+        <LINE>280</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>graph.cpp</FILENAME>
+        <LINE>281</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>graph.cpp</FILENAME>
+        <LINE>282</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>graph.cpp</FILENAME>
+        <LINE>283</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>graph.cpp</FILENAME>
+        <LINE>284</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"funcs" может быть равно NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>graph.cpp</FILENAME>
+        <LINE>285</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>graph.cpp</FILENAME>
+        <LINE>286</LINE>
+        <COLUMN>28</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"funcs" разыменовано, но, возможно, по-прежнему равно NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>303</LINE>
+      <COLUMN>32</COLUMN>
+    </SFA>
+    <DEFECTCODE>6308</DEFECTCODE>
+    <DESCRIPTION>realloc может возвратить пустой указатель: присвоение пустого указателя переменной "funcs", которая передается в качестве аргумента функции realloc, приведет к утечке исходного блока памяти.</DESCRIPTION>
+    <FUNCTION>graph::DeleteFunc</FUNCTION>
+    <DECORATED>?DeleteFunc@graph@@$$FQAE_NH@Z</DECORATED>
+    <FUNCLINE>294</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>457</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>458</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>459</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>459</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>460</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>461</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>461</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>461</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(4), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>461</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(5), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>461</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(6), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>461</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(7), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>462</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>466</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>469</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>473</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>476</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>477</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>478</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>478</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>478</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(4), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>478</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(5), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>479</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>480</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>489</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>489</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>489</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(4), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>489</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(5), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>489</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6328</DEFECTCODE>
+    <DESCRIPTION>Несоответствие размера: "bool" передан в качестве параметра _Param_(6), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>490</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>491</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>492</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>493</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>494</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>495</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>496</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>497</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>504</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>507</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>511</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>514</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::LoadFromFile</FUNCTION>
+    <DECORATED>?LoadFromFile@graph@@$$FQAEXPBD@Z</DECORATED>
+    <FUNCLINE>450</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>543</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::SaveToFileInfo</FUNCTION>
+    <DECORATED>?SaveToFileInfo@graph@@$$FQAMXP$AAVString@System@@PAD@Z</DECORATED>
+    <FUNCLINE>523</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>544</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::SaveToFileInfo</FUNCTION>
+    <DECORATED>?SaveToFileInfo@graph@@$$FQAMXP$AAVString@System@@PAD@Z</DECORATED>
+    <FUNCLINE>523</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>545</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::SaveToFileInfo</FUNCTION>
+    <DECORATED>?SaveToFileInfo@graph@@$$FQAMXP$AAVString@System@@PAD@Z</DECORATED>
+    <FUNCLINE>523</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>547</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>graph::SaveToFileInfo</FUNCTION>
+    <DECORATED>?SaveToFileInfo@graph@@$$FQAMXP$AAVString@System@@PAD@Z</DECORATED>
+    <FUNCLINE>523</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>graph.cpp</FILENAME>
+      <LINE>547</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6063</DEFECTCODE>
+    <DESCRIPTION>Пропущен строковый аргумент для "fscanf", соответствующий спецификатору преобразования "1".</DESCRIPTION>
+    <FUNCTION>graph::SaveToFileInfo</FUNCTION>
+    <DECORATED>?SaveToFileInfo@graph@@$$FQAMXP$AAVString@System@@PAD@Z</DECORATED>
+    <FUNCLINE>523</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

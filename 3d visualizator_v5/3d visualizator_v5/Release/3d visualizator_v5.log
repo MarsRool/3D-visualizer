@@ -1,0 +1,95 @@
+﻿  graph.cpp
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(101): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(223): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(204): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(212): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(215): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(216): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(219): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(220): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(223): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(224): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(459): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "5" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(457): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(458): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(459): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(460): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(462): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(466): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(469): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(473): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(476): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(477): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(479): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(480): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(490): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(491): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(492): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(493): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(494): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(495): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(496): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(497): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(504): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(507): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(511): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(514): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(543): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(544): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(545): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(547): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+  3d visualizator_v5.vcxproj -> D:\Programming\C++ Projects\3d visualizator_v5\Release\3d visualizator_v5.exe

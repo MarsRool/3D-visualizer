@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>conversions.cpp</FILENAME>
+      <LINE>184</LINE>
+      <COLUMN>75</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Использование неинициализированной памяти "chstr".</DESCRIPTION>
+    <FUNCTION>StrToD</FUNCTION>
+    <DECORATED>?StrToD@@$$FYMNAA_NP$AAVString@System@@@Z</DECORATED>
+    <FUNCLINE>173</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>175</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>176</LINE>
+        <COLUMN>6</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Инициализация "chstr" не выполнена</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>177</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>178</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>179</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>179</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить этот цикл (предполагается, что "i&lt;n+10" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>181</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>181</LINE>
+        <COLUMN>15</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить этот цикл (предполагается, что "i&lt;n" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>conversions.cpp</FILENAME>
+        <LINE>184</LINE>
+        <COLUMN>75</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"chstr" используется, но, возможно, не инициализировано</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

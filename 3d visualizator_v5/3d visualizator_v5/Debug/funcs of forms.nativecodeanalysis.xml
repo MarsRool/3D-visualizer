@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6200</DEFECTCODE>
+    <DESCRIPTION>Индекс "1" находится вне диапазона от "0" до "0" для буфера "ch" вне стека.</DESCRIPTION>
+    <FUNCTION>MyScan</FUNCTION>
+    <DECORATED>?MyScan@@$$FYMP$AAVString@System@@PAU_iobuf@@AA_N@Z</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>Переполнение буфера при записи в "ch":  доступный для записи объем равен "1*1" байт, однако записать можно только "2" байт.</DESCRIPTION>
+    <FUNCTION>MyScan</FUNCTION>
+    <DECORATED>?MyScan@@$$FYMP$AAVString@System@@PAU_iobuf@@AA_N@Z</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>14</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>41</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>18</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>19</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>20</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>22</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>36</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"ch" является массивом из 1 элементов (1 байт)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>funcs of forms.cpp</FILENAME>
+        <LINE>36</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Недопустимая операция записи в "ch[1]" (доступный для записи диапазон: от 0 до 0)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>350</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>My3dvisualizator_v5::FormLoad::LoadListOfFuncsLoad</FUNCTION>
+    <DECORATED>?LoadListOfFuncsLoad@FormLoad@My3dvisualizator_v5@@$$FA$AAMXXZ</DECORATED>
+    <FUNCLINE>326</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>351</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>My3dvisualizator_v5::FormLoad::LoadListOfFuncsLoad</FUNCTION>
+    <DECORATED>?LoadListOfFuncsLoad@FormLoad@My3dvisualizator_v5@@$$FA$AAMXXZ</DECORATED>
+    <FUNCLINE>326</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>367</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>My3dvisualizator_v5::FormLoad::LoadListOfFuncsLoad</FUNCTION>
+    <DECORATED>?LoadListOfFuncsLoad@FormLoad@My3dvisualizator_v5@@$$FA$AAMXXZ</DECORATED>
+    <FUNCLINE>326</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>373</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>My3dvisualizator_v5::FormLoad::LoadListOfFuncsLoad</FUNCTION>
+    <DECORATED>?LoadListOfFuncsLoad@FormLoad@My3dvisualizator_v5@@$$FA$AAMXXZ</DECORATED>
+    <FUNCLINE>326</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>431</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>My3dvisualizator_v5::FormDemo::LoadListOfFuncsDemo</FUNCTION>
+    <DECORATED>?LoadListOfFuncsDemo@FormDemo@My3dvisualizator_v5@@$$FA$AAMXXZ</DECORATED>
+    <FUNCLINE>407</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>432</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>My3dvisualizator_v5::FormDemo::LoadListOfFuncsDemo</FUNCTION>
+    <DECORATED>?LoadListOfFuncsDemo@FormDemo@My3dvisualizator_v5@@$$FA$AAMXXZ</DECORATED>
+    <FUNCLINE>407</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>446</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>My3dvisualizator_v5::FormDemo::LoadListOfFuncsDemo</FUNCTION>
+    <DECORATED>?LoadListOfFuncsDemo@FormDemo@My3dvisualizator_v5@@$$FA$AAMXXZ</DECORATED>
+    <FUNCLINE>407</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>funcs of forms.cpp</FILENAME>
+      <LINE>452</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "fscanf".</DESCRIPTION>
+    <FUNCTION>My3dvisualizator_v5::FormDemo::LoadListOfFuncsDemo</FUNCTION>
+    <DECORATED>?LoadListOfFuncsDemo@FormDemo@My3dvisualizator_v5@@$$FA$AAMXXZ</DECORATED>
+    <FUNCLINE>407</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

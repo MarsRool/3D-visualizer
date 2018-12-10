@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>opengl funcs.cpp</FILENAME>
+      <LINE>85</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Использование неинициализированной памяти "max".</DESCRIPTION>
+    <FUNCTION>graph_func::Max</FUNCTION>
+    <DECORATED>?Max@graph_func@@$$FQAENH@Z</DECORATED>
+    <FUNCLINE>64</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>66</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>68</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Инициализация "max" не выполнена</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>18</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить этот цикл (предполагается, что "ii&lt;ndata" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>80</LINE>
+        <COLUMN>18</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить этот цикл (предполагается, что "ii&lt;ndata" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>85</LINE>
+        <COLUMN>2</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"max" используется, но, возможно, не инициализировано</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>opengl funcs.cpp</FILENAME>
+      <LINE>112</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Использование неинициализированной памяти "min".</DESCRIPTION>
+    <FUNCTION>graph_func::Min</FUNCTION>
+    <DECORATED>?Min@graph_func@@$$FQAENH@Z</DECORATED>
+    <FUNCLINE>91</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>9</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Инициализация "min" не выполнена</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>96</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>18</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить этот цикл (предполагается, что "ii&lt;ndata" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>107</LINE>
+        <COLUMN>18</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Пропустить этот цикл (предполагается, что "ii&lt;ndata" равно false)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+        <FILENAME>opengl funcs.cpp</FILENAME>
+        <LINE>112</LINE>
+        <COLUMN>2</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"min" используется, но, возможно, не инициализировано</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

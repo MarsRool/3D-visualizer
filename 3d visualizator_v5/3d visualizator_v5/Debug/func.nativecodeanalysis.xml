@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>func.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "modf".</DESCRIPTION>
+    <FUNCTION>rest</FUNCTION>
+    <DECORATED>?rest@@$$FYANABNABH@Z</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\</FILEPATH>
+      <FILENAME>func.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Возвращаемое значение пропущено: "modf".</DESCRIPTION>
+    <FUNCTION>rest</FUNCTION>
+    <DECORATED>?rest@@$$FYANABNABH@Z</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

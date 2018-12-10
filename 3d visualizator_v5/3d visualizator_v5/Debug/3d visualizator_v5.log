@@ -1,0 +1,355 @@
+﻿  stdafx.cpp
+  3d visualizator_v5.cpp
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(999): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1045): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1046): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1078): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1079): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1120): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1235): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1236): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1398): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1404): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1413): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1494): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1533): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1596): warning C4669: reinterpret_cast: небезопасное преобразование: "System::Windows::Forms::Button" является объектом управляемый
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1637): warning C4669: reinterpret_cast: небезопасное преобразование: "System::Windows::Forms::CheckBox" является объектом управляемый
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1644): warning C4669: reinterpret_cast: небезопасное преобразование: "System::Windows::Forms::Button" является объектом управляемый
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1659): warning C4669: reinterpret_cast: небезопасное преобразование: "System::Windows::Forms::Button" является объектом управляемый
+  AssemblyInfo.cpp
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\assemblyinfo.cpp(40): warning C4947: System::Security::Permissions::SecurityAction::RequestMinimum: помечен как устаревший
+  d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\assemblyinfo.cpp(40): note: Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  calculator from OPN.cpp
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\calculator from opn.cpp(100): warning C4018: <=: несоответствие типов со знаком и без знака
+  conversions.cpp
+  func.cpp
+  funcs of forms.cpp
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(999): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1045): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1046): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1078): warning C4244: =: преобразование "float" в "unsigned int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1079): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1120): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1235): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1236): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1398): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1404): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1413): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1494): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1533): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1596): warning C4669: reinterpret_cast: небезопасное преобразование: "System::Windows::Forms::Button" является объектом управляемый
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1637): warning C4669: reinterpret_cast: небезопасное преобразование: "System::Windows::Forms::CheckBox" является объектом управляемый
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1644): warning C4669: reinterpret_cast: небезопасное преобразование: "System::Windows::Forms::Button" является объектом управляемый
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\form1.h(1659): warning C4669: reinterpret_cast: небезопасное преобразование: "System::Windows::Forms::Button" является объектом управляемый
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(20): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(350): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(351): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(367): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(373): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(431): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(432): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(446): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(452): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+  graph.cpp
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(101): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(223): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(204): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(212): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(215): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(216): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(219): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(220): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(223): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(224): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(459): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "5" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "2" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "3" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4477: "fscanf": в строке форматирования "%i" требуется аргумент типа "int *", но вариативный аргумент "4" имеет тип "bool *"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(457): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(458): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(459): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(460): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(462): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(466): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(469): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(473): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(476): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(477): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(479): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(480): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(490): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(491): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(492): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(493): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(494): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(495): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(496): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(497): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(504): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(507): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(511): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(514): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(547): warning C4473: "fscanf": передано недостаточно аргументов для строки формата
+  d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(547): note: заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+  d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(547): note: отсутствующий вариативный аргумент "1" требуется для строки форматирования "%s"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(543): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(544): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(545): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(547): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+  OpenGL funcs.cpp
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(16): warning C4305: инициализация: усечение из "double" в "float"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(369): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(370): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(371): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(372): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(377): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(389): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(390): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(391): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(392): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(397): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(409): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(410): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(411): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(412): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(417): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(427): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(428): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(429): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(432): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(433): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(434): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(437): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(438): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(439): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(442): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(443): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(444): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(451): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(452): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(453): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(467): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(468): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(469): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(480): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(481): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(482): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(485): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(486): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(487): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(490): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(491): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(492): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(495): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(496): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(497): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(509): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(510): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(517): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(518): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(519): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(520): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(525): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(536): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(537): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(538): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(539): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(540): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(541): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(546): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(547): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(548): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(549): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(554): warning C4244: =: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(604): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(605): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(606): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(607): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(608): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(609): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(610): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(630): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(631): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(632): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(633): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(647): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(648): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(649): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(650): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(652): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(653): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(654): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(656): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(657): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(667): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(668): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(669): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(670): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(675): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(676): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(677): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(679): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(680): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(683): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(684): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(685): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(687): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(688): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(691): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(692): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(693): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(695): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(696): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(699): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(700): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(701): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(703): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(704): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(782): warning C4305: -=: усечение из "double" в "float"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(784): warning C4305: +=: усечение из "double" в "float"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(793): warning C4305: инициализация: усечение из "double" в "float"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(819): warning C4305: аргумент: усечение из "double" в "GLfloat"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(820): warning C4305: аргумент: усечение из "double" в "GLfloat"
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(846): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(857): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  translate to OPN.cpp
+  Компиляция...
+  Создание кода...
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\func.cpp(75): warning C4172: возвращение адреса локальной или временной переменной : outstr
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  3d visualizator_v5.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  3d visualizator_v5.vcxproj -> D:\Programming\C++ Projects\3d visualizator_v5\Debug\3d visualizator_v5.exe
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\calculator from opn.cpp(308): warning C6001: Использование неинициализированной памяти "result".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\calculator from opn.cpp(318): warning C6001: Использование неинициализированной памяти "result".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\calculator from opn.cpp(343): warning C6001: Использование неинициализированной памяти "result".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\calculator from opn.cpp(353): warning C6001: Использование неинициализированной памяти "result".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\calculator from opn.cpp(162): warning C6001: Использование неинициализированной памяти "symbi".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\calculator from opn.cpp(202): warning C6001: Использование неинициализированной памяти "result".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\conversions.cpp(184): warning C6001: Использование неинициализированной памяти "chstr".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\func.cpp(14): warning C6031: Возвращаемое значение пропущено: "modf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\func.cpp(15): warning C6031: Возвращаемое значение пропущено: "modf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(36): warning C6200: Индекс "1" находится вне диапазона от "0" до "0" для буфера "ch" вне стека.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(36): warning C6386: Переполнение буфера при записи в "ch":  доступный для записи объем равен "1*1" байт, однако записать можно только "2" байт.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(350): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(351): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(367): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(373): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(431): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(432): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(446): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\funcs of forms.cpp(452): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(204): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(212): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(215): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(216): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(219): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(220): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(223): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(223): warning C6328: Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(224): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(284): warning C6308: realloc может возвратить пустой указатель: присвоение пустого указателя переменной "funcs", которая передается в качестве аргумента функции realloc, приведет к утечке исходного блока памяти.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(286): warning C28182: Разыменование пустого (NULL) указателя. "funcs" содержит то же значение NULL, которое находилось в "realloc()`284". 
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(303): warning C6308: realloc может возвратить пустой указатель: присвоение пустого указателя переменной "funcs", которая передается в качестве аргумента функции realloc, приведет к утечке исходного блока памяти.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(457): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(458): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(459): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(459): warning C6328: Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(460): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(461): warning C6328: Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(462): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(466): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(469): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(473): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(476): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(477): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(478): warning C6328: Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(479): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(480): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(489): warning C6328: Несоответствие размера: "bool" передан в качестве параметра _Param_(3), хотя при вызове "fscanf" требуется "32 bit operand". Это указывает на возможную серьезную ошибку. Получение этого сообщения для функций, аналогичных scanf, может приводить к опустошению или переполнению буфера.
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(490): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(491): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(492): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(493): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(494): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(495): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(496): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(497): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(504): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(507): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(511): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(514): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(543): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(544): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(545): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(547): warning C6031: Возвращаемое значение пропущено: "fscanf".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\graph.cpp(547): warning C6063: Пропущен строковый аргумент для "fscanf", соответствующий спецификатору преобразования "1".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(85): warning C6001: Использование неинициализированной памяти "max".
+d:\programming\c++ projects\3d visualizator_v5\3d visualizator_v5\opengl funcs.cpp(112): warning C6001: Использование неинициализированной памяти "min".
+  Running Code Analysis...
+  Code Analysis Complete -- 0 error(s), 0 warning(s)

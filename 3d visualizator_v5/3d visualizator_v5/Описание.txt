@@ -1,0 +1,111 @@
+доработки(ключевые слова):
+!M1! (сделано)
+{баг: доделать проверку на функции absx - нет ошибок, хот€ формат неправильный}
+оптимизировать методы (в OpenGL funcs.cpp)
+{баг: проблема с повреждением пам€ти.
+Ѕыл создан в c:\Users\Mars\source\repos\ проект, содержащий только класс graph и часть его реализации.}
+{баг: при открытии формы Load или Demo, единственный listOfFuncs перезагружаетс€ последней открытой формой.
+“о есть если открыть Load, потом Demo, то при загрузке первой функции из Load, загрузитс€ перва€ функци€ из Demo, потому что последней открытой формой €вл€етс€ Demo и она загружает listOfFuncs.
+как исправить: создать дл€ каждой формы listOfFuncs, убрать ее из graph.}
+{баг: сделать правильное добавление и удаление функций.
+сейчас потери пам€ти}
+
+//x,y - переменные, 
+t - врем€. 
+pi    -> w - пи, 
+e     -> e - экспонента
+
+sin   -> s
+cos   -> c
+tg    -> p
+ctg   -> g
+sqrt  -> q
+
+abs   -> a
+round -> r
+ceil  -> l
+floor -> f
+
+asin  -> v
+acos  -> b
+atg   -> i
+actg  -> m
+
+ln    -> n
+log   -> u
+
+/*min   -> k это лишнее
+  max   -> j*/
+
+допустимость sin() -> {s()}
+...+s(1)
+
+5+sin(10*5^2)
+->
+5 10 5 2 ^ * sin +
+
+
+недопустимость:
+s+
+
+примеры
+static:
+1)	sin(4*x*y)
+	от -1 до 1
+2)	x^3-3*x+y^3-3*y
+	от -2 до 2
+3)	sqrt(x*x+y*y)+3*cos(sqrt(x*x+y*y))+5
+	от -10 до 10 (оба)
+4)	100-3/sqrt(x^2+y^2)+sin(sqrt(x^2+y^2))+sqrt(200-x^2+y^2+10*sin(x)+10*sin(y))/1000
+	от -15 до 15 (оба)
+5)	5+(-sqrt(1-x^2-(y-abs(x))^2))*cos(30*((1-x^2-(y-abs(x))^2)))
+-1 до 1, -1 до 1,5, 1 до 6
+
+dynamic:
+1)	sin(5x+t)+sin(5y+t)
+	от -1 до 1
+2)	cos(x*y*t)*(x^2-y^2)
+	от -2 до 2
++combo
+
+формат файла MRf5
+
+ngrid
+t1;t2
+isinitOpenGl(das int)
+modecolor;modeoses
+moderot;modegridgr;modeistoses;modepokaz;istDynamic(dall das int)
+fps;ffs
+color_type1
+color_type2
+Xmin;Xmax;Ymin;Ymax;Zmin;Zmax;
+isautozmin;isautozmax;Failed
+mode_Now
+nfuncs
+
+дл€ каждой функции:
+failed;isFuncDynamic;isfunc;isFuncVisible
+outsch
+str
+strpr
+outstr
+zmin;zmax
+type_of_color
+color
+color_grad
+color_grad_land
+savedata();
+
+of savedata():
+ndata
+и дл€ каждой даты
+k
+Matr
+nMatr
+Matrnorm
+
+
+!fileInfo:
+name(с полным путем расположени€)
+nfuncs
+список of graph_func otpfrom str

@@ -1,0 +1,9 @@
+\data\Saves\sedlo.MRf5
+1
+x^2-y^2
+\data\Saves\blablabla.MRf5
+1
+x^2+y^2
+\data\Saves\waves.MRf5
+1
+sin((x^2+y^2)^0.5-4t)
